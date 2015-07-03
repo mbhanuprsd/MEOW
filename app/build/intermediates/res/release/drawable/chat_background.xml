@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:angle="270"
+        android:endColor="#772A9DFC"
+        android:startColor="#442A9DFC" />
+</shape>
+
+    <!--07D9BF green-->
+    <!--2A9DFC blue--><!-- From: file:/Users/Bhanu/Documents/AndroidStudio/MEOW1/app/src/main/res/drawable/chat_background.xml -->

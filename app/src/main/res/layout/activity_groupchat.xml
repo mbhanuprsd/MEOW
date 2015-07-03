@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/chat_layout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/chat_background"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#88000000"
+        android:gravity="center_vertical">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/group_title_icon"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:background="@drawable/group_chat" />
+
+            <TextView
+                android:id="@+id/group_title"
+                android:layout_width="180dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="left"
+                android:layout_marginLeft="3dp"
+                android:gravity="center|left"
+                android:text="Meow!"
+                android:textColor="@android:color/white"
+                android:textSize="20sp" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="right|center_vertical"
+            android:orientation="horizontal">
+
+
+            <TextView
+                android:id="@+id/btnGroupOptions"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginRight="4dp"
+                android:background="@android:drawable/ic_menu_sort_by_size" />
+        </LinearLayout>
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <com.astuetz.PagerSlidingTabStrip
+                android:id="@+id/grouptabs"
+                android:layout_width="match_parent"
+                android:layout_height="48dp" />
+
+            <android.support.v4.view.ViewPager
+                android:id="@+id/grouppager"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/groupMainView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#00000000"
+            android:visibility="gone" />
+
+        <FrameLayout
+            android:id="@+id/group_options"
+            android:layout_width="180dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginRight="-45dp"
+            android:background="@drawable/menu_background">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/btnJoinGroup"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:drawableLeft="@drawable/join_group"
+                    android:drawablePadding="10dp"
+                    android:gravity="left|center"
+                    android:paddingLeft="5dp"
+                    android:text="Join"
+                    android:textColor="#ffffff"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="0.25dp"
+                    android:background="#66ffffff" />
+
+                <TextView
+                    android:id="@+id/btnCreateGroup"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:drawableLeft="@drawable/create_group"
+                    android:drawablePadding="10dp"
+                    android:gravity="left|center"
+                    android:paddingLeft="5dp"
+                    android:text="Create"
+                    android:textColor="#ffffff"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="0.25dp"
+                    android:background="#66ffffff" />
+
+                <TextView
+                    android:id="@+id/btnCloseGroupCHat"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:drawableLeft="@drawable/exit_group"
+                    android:drawablePadding="10dp"
+                    android:gravity="left|center"
+                    android:paddingLeft="5dp"
+                    android:text="Exit"
+                    android:textColor="#ffffff"
+                    android:textSize="16sp" />
+            </LinearLayout>
+        </FrameLayout>
+
+        <ListView
+            android:id="@+id/listMessages1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:background="#99ffffff"
+            android:divider="@android:color/transparent"
+            android:dividerHeight="0dp"
+            android:scrollbars="horizontal"
+            android:stackFromBottom="true"
+            android:transcriptMode="alwaysScroll"
+            android:visibility="gone" />
+    </FrameLayout>
+
+
+    <LinearLayout
+        android:id="@+id/linearLayout21"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#50ffffff"
+        android:gravity="bottom"
+        android:orientation="horizontal"
+        android:visibility="gone">
+
+        <EditText
+            android:id="@+id/chatET1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/style_edittext"
+            android:hint="Type to compose"
+            android:layout_margin="3dp"
+            android:scrollHorizontally="true"
+            android:textColor="@android:color/black"
+            android:textColorHint="@color/hint"/>
+
+        <ImageButton
+            android:id="@+id/sendBtn12"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:layout_margin="3dp"
+            android:background="@drawable/send"
+            android:contentDescription="@drawable/send"
+            android:src="@android:color/transparent" />
+    </LinearLayout>
+
+</LinearLayout>

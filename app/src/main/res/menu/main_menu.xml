@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menuItem1"
+        android:alphabeticShortcut="1"
+        android:title="About"/>
+	<item
+        android:id="@+id/menuItem2"
+        android:alphabeticShortcut="2"
+        android:title="Set Host"/>
+	
+</menu>

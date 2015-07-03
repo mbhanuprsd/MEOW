@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Bhanu/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-tcp/4.1.1/1a907dfbeaac622f7fdb6e1c678bfbf617710d58/smack-tcp-4.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a907dfbeaac622f7fdb6e1c678bfbf617710d58">
+        <dex dex="/Users/Bhanu/Documents/AndroidStudio/MEOW1/app/build/intermediates/pre-dexed/release/smack-tcp-4.1.1-f10fb0d73ef306939dfa49aecd8c5a743c2047b1.jar" />
+    </item>
+    <item
+        jar="/Users/Bhanu/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-extensions/4.1.1/759700c0cdc38c13a4f07a37409b735d40046dc9/smack-extensions-4.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="759700c0cdc38c13a4f07a37409b735d40046dc9">
+        <dex dex="/Users/Bhanu/Documents/AndroidStudio/MEOW1/app/build/intermediates/pre-dexed/release/smack-extensions-4.1.1-37ff256a92ff346cc62b9ab8360fbcd5b8202b10.jar" />
+    </item>
+    <item
+        jar="/Users/Bhanu/.gradle/caches/modules-2/files-2.1/javax.media/jmf/2.1.1e/fe9287a362578bfb8b7b9dba42af0ec80a297abb/jmf-2.1.1e.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe9287a362578bfb8b7b9dba42af0ec80a297abb">
+        <dex dex="/Users/Bhanu/Documents/AndroidStudio/MEOW1/app/build/intermediates/pre-dexed/release/jmf-2.1.1e-f7827fe9eb63105575772dadf60669874c0b5167.jar" />
+    </item>
+    <item
+        jar="/Users/Bhanu/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-resolver-minidns/4.1.1/7320995608d41aa21f224dd8077f2555f83ec0db/smack-resolver-minidns-4.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7320995608d41aa21f224dd8077f2555f83ec0db">
+        <dex dex="/Users/Bhanu/Documents/AndroidStudio/MEOW1/app/build/intermediates/pre-dexed/release/smack-resolver-minidns-4.1.1-34c919a53372911ff2da78d8b005b8cbe76765dc.jar" />
+    </item>
+    <item
+        jar="/Users/Bhanu/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-android/4.1.1/5e8bd73f6c05d0acb81bb8f29424e8b89a3d3753/smack-android-4.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5e8bd73f6c05d0acb81bb8f29424e8b89a3d3753">
+        <dex dex="/Users/Bhanu/Documents/AndroidStudio/MEOW1/app/build/intermediates/pre-dexed/release/smack-android-4.1.1-aa7372c2f2b0c54fc82d7484224c029e2510dd73.jar" />
+    </item>
+    <item
+        jar="/Users/Bhanu/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-sasl-provided/4.1.1/c04d58af8523aeaa5d11a3c73fc25e6ac8d37eb3/smack-sasl-provided-4.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c04d58af8523aeaa5d11a3c73fc25e6ac8d37eb3">
+        <dex dex="/Users/Bhanu/Documents/AndroidStudio/MEOW1/app/build/intermediates/pre-dexed/release/smack-sasl-provided-4.1.1-06bae7e21412502bb21c665868ec9beb36b47032.jar" />
+    </item>
+    <item
+        jar="/Users/Bhanu/.gradle/caches/modules-2/files-2.1/org.jxmpp/jxmpp-core/0.4.2-beta1/14ade1a89b0f6db4fa481f9f8a721cdec69374de/jxmpp-core-0.4.2-beta1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="14ade1a89b0f6db4fa481f9f8a721cdec69374de">
+        <dex dex="/Users/Bhanu/Documents/AndroidStudio/MEOW1/app/build/intermediates/pre-dexed/release/jxmpp-core-0.4.2-beta1-0b03c38e65d7d5d4f3798c0a5748c5f524198729.jar" />
+    </item>
+    <item
+        jar="/Users/Bhanu/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-im/4.1.1/e284f62755306222fa91b8e104f3501b4a4e43f5/smack-im-4.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e284f62755306222fa91b8e104f3501b4a4e43f5">
+        <dex dex="/Users/Bhanu/Documents/AndroidStudio/MEOW1/app/build/intermediates/pre-dexed/release/smack-im-4.1.1-3e0551d3146ae9f7ced0eea9303b86600339ca6a.jar" />
+    </item>
+    <item
+        jar="/Users/Bhanu/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-core/4.1.1/f7241f12f5ae2aedaf334bec240931f9d02cd2ba/smack-core-4.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f7241f12f5ae2aedaf334bec240931f9d02cd2ba">
+        <dex dex="/Users/Bhanu/Documents/AndroidStudio/MEOW1/app/build/intermediates/pre-dexed/release/smack-core-4.1.1-09ec75946e1492e2adfb5b2262c622fe45a51514.jar" />
+    </item>
+    <item
+        jar="/Users/Bhanu/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-jingle-old/4.1.1/f536ae1d36b918c1f193d33f578232731d6a7ebd/smack-jingle-old-4.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f536ae1d36b918c1f193d33f578232731d6a7ebd">
+        <dex dex="/Users/Bhanu/Documents/AndroidStudio/MEOW1/app/build/intermediates/pre-dexed/release/smack-jingle-old-4.1.1-cf5866d2c1949b2875a4d9f3bb7ce4ee45c15195.jar" />
+    </item>
+    <item
+        jar="/Users/Bhanu/.gradle/caches/modules-2/files-2.1/de.measite.minidns/minidns/0.1.7/993582d1455b93a5723d2af4b39d8679735b3550/minidns-0.1.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="993582d1455b93a5723d2af4b39d8679735b3550">
+        <dex dex="/Users/Bhanu/Documents/AndroidStudio/MEOW1/app/build/intermediates/pre-dexed/release/minidns-0.1.7-ae2f2b10208cc4768c5b180e85e16b1593da82a0.jar" />
+    </item>
+    <item
+        jar="/Users/Bhanu/Documents/AndroidStudio/MEOW1/app/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="/Users/Bhanu/Documents/AndroidStudio/MEOW1/app/build/intermediates/pre-dexed/release/classes-9d6c98044e782dacf296244e7509a37f7ca2f2b9.jar" />
+    </item>
+    <item
+        jar="/Users/Bhanu/.gradle/caches/modules-2/files-2.1/org.jxmpp/jxmpp-util-cache/0.4.2-beta1/43e2a81f52600639daeb02ede60cc498a13614a5/jxmpp-util-cache-0.4.2-beta1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="43e2a81f52600639daeb02ede60cc498a13614a5">
+        <dex dex="/Users/Bhanu/Documents/AndroidStudio/MEOW1/app/build/intermediates/pre-dexed/release/jxmpp-util-cache-0.4.2-beta1-11b10fdd6ad7040335f89de923ca334afbe702d6.jar" />
+    </item>
+    <item
+        jar="/Users/Bhanu/Development/adt-bundle-mac-x86_64/sdk/extras/android/m2repository/com/android/support/support-v4/19.0.0/support-v4-19.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="afee690af14bd2c32d400cdf78e746fd45c386fa">
+        <dex dex="/Users/Bhanu/Documents/AndroidStudio/MEOW1/app/build/intermediates/pre-dexed/release/support-v4-19.0.0-bd4e0ddbebc1f226dcb1181cbcd52a233038ea7f.jar" />
+    </item>
+
+</items>

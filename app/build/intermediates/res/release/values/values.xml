@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Bhanu/Documents/AndroidStudio/MEOW1/app/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/res/values/values.xml -->
+    <eat-comment/>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <!-- From: file:/Users/Bhanu/Documents/AndroidStudio/MEOW1/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="black_bg">#E6000000</color>
+    <color name="blue_line">#CC045cb5</color>
+    <color name="hint">#656368</color>
+    <color name="list_red">#4d0509</color>
+    <color name="textcolor">#045cb5</color>
+    <declare-styleable name="PagerSlidingTabStrip"><attr format="color" name="pstsIndicatorColor"/><attr format="color" name="pstsUnderlineColor"/><attr format="color" name="pstsDividerColor"/><attr format="dimension" name="pstsIndicatorHeight"/><attr format="dimension" name="pstsUnderlineHeight"/><attr format="dimension" name="pstsDividerPadding"/><attr format="dimension" name="pstsTabPaddingLeftRight"/><attr format="dimension" name="pstsScrollOffset"/><attr format="reference" name="pstsTabBackground"/><attr format="boolean" name="pstsShouldExpand"/><attr format="boolean" name="pstsTextAllCaps"/></declare-styleable>
+    <!-- From: file:/Users/Bhanu/Documents/AndroidStudio/MEOW1/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">MEOW!</string>
+    <string name="contactAddress">SIP Address to contact</string>
+    <string name="talk">Talk</string>
+</resources>

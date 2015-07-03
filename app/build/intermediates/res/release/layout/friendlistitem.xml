@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:background="@drawable/style_search"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/tvfrndpic"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="10dp"
+        android:padding="5dp"
+        android:src="@drawable/user"/>
+
+
+    <TextView
+        android:id="@+id/tvfrndname"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="5dp"
+        android:layout_weight="1"
+        android:gravity="left|center"
+        android:paddingLeft="10dp"
+        android:text="Friend name"
+        android:textColor="@color/textcolor"
+        android:textSize="18sp" />
+
+</LinearLayout>
+<!-- From: file:/Users/Bhanu/Documents/AndroidStudio/MEOW1/app/src/main/res/layout/friendlistitem.xml -->

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:angle="90"
+        android:endColor="#1D6EB0"
+        android:startColor="#1D6EB0" />
+
+    <stroke
+        android:width="2dp"
+        android:color="#44ffffff" />
+
+    <corners android:radius="5dp" />
+</shape><!-- From: file:/Users/Bhanu/Documents/AndroidStudio/MEOW1/app/src/main/res/drawable/menu_background.xml -->
